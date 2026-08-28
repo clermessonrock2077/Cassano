@@ -1,0 +1,10 @@
+let n1 = prompt("Digite um número: ");
+n1 = number(n1)
+let n2 = prompt("Digite outro numero:")
+n2 = number(n2);
+alert(`${n1} + ${n2} = ${n1 + n2}`)
+alert(`${n1} - ${n2} = ${n1 + n2}`)
+alert(`${n1} / ${n2} = ${n1 + n2}`)
+alert(`${n1} % ${n2} = ${n1 + n2}`)
+alert(`${n1} * ${n2} = ${n1 + n2}`)
+alert(`${n1} ** ${n2} = ${n1 + n2}`)
