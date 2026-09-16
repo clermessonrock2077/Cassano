@@ -1,0 +1,1 @@
+const opacidade = document.get
